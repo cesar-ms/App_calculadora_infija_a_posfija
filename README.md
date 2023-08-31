@@ -19,12 +19,13 @@ Ejemplo de la aplicación:
 Aviso: 
   
   No ingreses espacios en la entrada del convertidor.
+  
   No ingreses algun símbolo diferente de los antes mencionados.
 
 Recomendaciones:
 
-  Verifica que la entrada del calculador no tenga espacios de más, por ejemplo, 12  3 +, esto hará que el calculador marque error.
-  La cadena solo tiene que llevar un espacio por concatenación. 
+  Verifica que la entrada del calculador no tenga espacios de más, por ejemplo, 12  3 +, esto hará que el calculador marque error. La cadena solo tiene que llevar un espacio por 
+  concatenación. 
   
   
 
